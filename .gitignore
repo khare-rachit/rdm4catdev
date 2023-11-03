@@ -1,0 +1,4 @@
+Rdm4catdev-env/
+.DS_Store
+__pycache__
+.env
